@@ -5,5 +5,36 @@ body {
 #img {
     width: auto;
     height: 310px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+ 
+#link {
+    background-color:  rgba(114, 95, 11, 0.479);
 }
 
+.header-title {
+    text-align: center;
+}
+
+.header-subtitle {
+    text-align: center;
+}
+
+.para {
+    text-align: center;
+}
+
+.list-unordered {
+    text-align: center;
+    display: inline-block;
+    text-align: left;
+}
+
+.list-ordered {
+    text-align: center;
+    display: inline-block;
+    text-align: left;
+}
