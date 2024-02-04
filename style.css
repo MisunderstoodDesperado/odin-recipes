@@ -27,14 +27,13 @@ body {
     text-align: center;
 }
 
+
 .list-unordered {
     text-align: center;
-    display: inline-block;
-    text-align: left;
+    list-style-position: inside;
 }
 
-.list-ordered {
+ol.list-ordered {
     text-align: center;
-    display: inline-block;
-    text-align: left;
+    list-style-position: inside;
 }
